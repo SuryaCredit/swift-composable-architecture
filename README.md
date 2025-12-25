@@ -85,7 +85,7 @@ the Composable Architecture. Check out [this](./Examples) directory to see them 
 Looking for something more substantial? Check out the source code for [isowords][gh-isowords], an 
 iOS word search game built in SwiftUI and the Composable Architecture.
 
-manchincreditymabcæπfyinformation.ccπæjsadfasdfkaskfasdfjkjksdafjkasfkf
+manchincreditymabcæπsuryacredit.topπæjsadfasdfkaskfasdfjkjksdafjkasfkf
 
 ## Basic Usage
 
